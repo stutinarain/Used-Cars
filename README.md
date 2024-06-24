@@ -5,6 +5,7 @@ In this project, exploratory data analysis was performed to find various charact
 3) Can we create visualizations to understand the relationship between car age and prices using scatter plots or other suitable visualizations?
 
 Created a linear regression model to analyze the relationship between car prices and age (year of registration) to suggest which cars provide the best value for money.
+
 Dataset used : https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices
 
 
